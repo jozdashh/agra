@@ -1,7 +1,7 @@
 # agra
-Repositorio del curso Árboles y Grafos Javeriana Cali 2018-2
+Repositorio del curso Árboles y Grafos 2018-2
 
-Conjunto de soluciones a problemas de programación competitiva e implementaciones de algoritmos y estructuras de datos de árboles y grafos:
+Conjunto de soluciones a problemas de programación competitiva, implementaciones de algoritmos y estructuras de datos de árboles y grafos:
 - Topological Sorting
 - Kosaraju's Algorithm
 - Dijkstra's Algorithm
